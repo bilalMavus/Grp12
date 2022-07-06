@@ -5,5 +5,7 @@ public class ravzaozkan {
 
         System.out.println( "ravza bak ozkan");
         System.out.println( " Muammer ozkan");
+        System.out.println( "bilal hocam");
+        System.out.println( "ebuzer hocam");
     }
 }
