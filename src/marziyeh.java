@@ -4,5 +4,6 @@ public class marziyeh {
         System.out.println("marziyeh 2");
         System.out.println("marziyeh 3");
         System.out.println("marziyeh4");
+        System.out.println("kodlar");
     }
 }
